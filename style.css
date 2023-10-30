@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(230, 230, 230);
+}
+form{
+    margin-top: 60%;
+    color: black;
+    border: 2px solid black;
+    border-radius: 4px;
+    box-shadow: 5px 5px 8px 0 black;
+}
+
+.btn{
+    margin-top: 5%;
+
+}
+.dentro{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+}
+
